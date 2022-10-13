@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **YoyoMai98/YoyoMai98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I am Yongran
+- 🌱 I’m currently learning full-stack development in [BNTA](https://techacademy.brightnetwork.co.uk/)
+- 📫 [Connect](https://www.linkedin.com/in/yongran-mai/)
