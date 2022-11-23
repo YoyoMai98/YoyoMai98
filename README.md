@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I am Yongran
-- 🌱 I’m currently learning full-stack development in [BNTA](https://techacademy.brightnetwork.co.uk/)
+- 🌱 I’m now a full-stack software engineering associate in [BNTA](https://techacademy.brightnetwork.co.uk/)
 - 📫 Reach me via [Email](maiyongran@gmail.com) or [Connect me](https://www.linkedin.com/in/yongran-mai/)
